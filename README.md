@@ -5,3 +5,6 @@ For the GAN, the generator is a dense connected neural network with dropout, and
 GANs have proven to be excellent networks for producing original images given a dataset to learn from, some of the better images produced
 by this network will be selected and posted on here so that they can be viewed.
 
+Also, future work for this project might be posted here.
+
+
