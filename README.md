@@ -7,4 +7,15 @@ by this network will be selected and posted on here so that they can be viewed.
 
 Also, future work for this project might be posted here.
 
+Future ideas/brainstorming:
+
+Maybe cycle between different discriminators (One for determining if image is fake and one for)
+Also, another idea is to have another intermediate network that removes all of the small splotches on the side
+
+Separate idea:
+Use this network but 
+Maybe have some sort of random seed that makes half of the pixels random colors the rest black
+For seed put first 10 as completely random, second ten (or whatever we are comparing to target) as the categorical digit
+Then have a network that matches this to the nearest digit (whatever the seed)
+
 
